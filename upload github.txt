@@ -1,0 +1,9 @@
+ Git config --global user.name "username anda" 
+
+ Git config --global user.email isi_dengan_email_anda@ymail.com 
+
+ Git init 
+
+ Git add * 
+
+ Git commit –m "versi 1.0.0" 

@@ -1,0 +1,49 @@
+Login
+	admin
+	user
+	tambah user
+Setup tabel
+	tarif pemeriksaan kode,nama pemeriksa,tarif 1,2,3 kelompok laborat,radiologi,ekg "cetak semua tarif"
+	format hasil
+	dokter/pengirim
+	analis
+	pemakai
+Pendaftaran
+	tgl
+	jam
+	nomor increment
+	nama pasien
+	jenis kelamin
+	umur
+	alamat
+	dokter
+	tarif
+	laborat
+	radiologi
+	EKG
+	rujukan
+	spuit
+	administrasi
+	jumlah
+	bayar
+	sisa
+	pembayaran atas nama CRUD
+Hasil Pemeriksaan
+	nomor
+	nama pasien
+	kelamin
+	umur
+	alamat
+	tanggal
+	jam
+	dokter
+	kode analis CRUD
+
+Laporan
+	Laporan kasir
+	Laporan Bulanan
+	Jasa Dokter
+	
+	
+	
+0856733669723
